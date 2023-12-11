@@ -11,10 +11,17 @@
 
 - 📫 How to reach me **mustafahassanis2001@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mustafahas20297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafahas20297" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafahassan2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafahassan2001/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=61554486898168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61554486898168" height="30" width="40" /></a>
+<a href="https://medium.com/@fa21bscs0030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fa21bscs0030" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@helloworld0030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@helloworld0030" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fa21bscs0030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fa21bscs0030/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fa21bscs0030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fa21bscs0030/" height="30" width="40" /></a>
 </p>
