@@ -1,7 +1,8 @@
 ![logo](https://github.com/Mustafa-Hassan2001/Mustafa-Hassan2001/blob/main/Follo.png)
 <h1 align="center">Hi 👋, I'm Mustafa Hassan</h1>
 <h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fiamrudhresh&psig=AOvVaw3d2Dvfq_Tgs4gJ0tzwPC4V&ust=1704367717572000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODajNeOwYMDFQAAAAAdAAAAABAQ">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Mustafa-Hassan2001/Mustafa-Hassan2001/assets/98483655/afee81d2-2598-4120-9488-12374a06347a)
+">
 
 - 🌱 I’m currently learning **Android**
 
