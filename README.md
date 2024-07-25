@@ -3,17 +3,9 @@
 <h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🌱 I’m currently learning **Android**
+### About Me,
 
-- 📝 I regularly write articles on [https://medium.com/@fa21bscs0030](https://medium.com/@fa21bscs0030)
-
-- 💬 Ask me about **Android, Front-End Development**
-
-- 📫 How to reach me **mustafahassanis2001@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ I am <b>Syed Mustafa Hassan</b> pursuing my <b>Computer Science Degree</b> from Mohammad Ali Jinnah University, Currently in my final year of Bachelor's.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
