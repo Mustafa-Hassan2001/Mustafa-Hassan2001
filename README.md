@@ -20,6 +20,8 @@
 </p>
 
 <h1>🛠 About My Tech Stack</h1>
+
+   <img width="40%" align="right"   src="https://user-images.githubusercontent.com/90326051/196059543-f26eed56-e331-4211-8c0f-7ec25ab482de.png">
    
 As a **Mobile Application** and 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, I have demonstrated a consistent track record of innovation and collaboration. My contributions to **Social Winter of Code** (SWOC) and **GirlScript Summer of Code** (GSSOC) have positioned me among the *top 100 contributors*, showcasing my dedication to software development and community engagement. Currently, I am a **React Native** Track Mentor at **Bytewise Limited**, where I lead and mentor fellows in developing cutting-edge mobile applications. My role encompasses providing learning materials, addressing queries, conducting code reviews, and offering personal mentorship. Previously, as a **React Native Developer** Intern at **360XpertSolutions**, I developed a debugging tool that significantly enhanced team performance, integrated RESTful APIs, and resolved complex integration issues.
 
