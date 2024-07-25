@@ -37,3 +37,18 @@ With a passion for learning and exploring new technologies, I thrive in team env
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-hassan2001&show_icons=true&locale=en" alt="mustafa-hassan2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-hassan2001&" alt="mustafa-hassan2001" /></p>
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Imdad](https://imdad.netlify.app/)  | Bridging the gap between NGOs and public. Encouraging people to raise money for needy people and maintaining an accurate record of their valuable donations.
+| [LeatherHoard](https://leatherhoard.netlify.app/)     | A basic template for e-commerce website, designed with HTML, CSS and Bootstrap. It is an open-source website.
+| [Randomized Color Lab](https://colors-lab.netlify.app/)     | A React color-guessing project will help beginners understand the basic principles of React.js (components, properties, and hooks).
+| [Work Flash](https://workflash.netlify.app/)     | Do you desire greater exposure for your projects? Do you want others to be able to learn from your project? If the answer is yes, you are in the right place. The "Work Flash" website will assist you in growing your network and showcasing your work to the world. Grow your website to attract more viewers by contributing it to "Work Flash."
+| [Tracker Expense Calculator](https://yellow-dune-0d56eaa00.1.azurestaticapps.net/index.html)     | An easy-to-use budgeting calculator will help users to understand their expenses and manage their money. The budget process depends on an accurate calculation of expenses and revenues (Total Expenses = Net Revenue - Net Income) so that the user can calculate their total expenses. Utilizing our free expense calculator will take control of your spending! I have also contributed this project to Microsoft's Academic Content repository.
+| [Blood Support](http://blood-support.live/)  | Creating a support platform to bridge the gap between donors, patients, blood banks, hospitals and maternity centers, so that they can easily connect with nearby blood donors and blood banks. |
+  
+
+# 🏆 HacktoberFest 2022 Badges
+[![An image of @kiranpanjwani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kiranpanjwani)](https://holopin.io/@kiranpanjwani)
+
