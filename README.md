@@ -38,6 +38,10 @@ With a passion for learning and exploring new technologies, I thrive in team env
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-hassan2001&" alt="mustafa-hassan2001" /></p>
 
+<h1>Projects 💻</h1>
+I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+<br><br>
+<!-- <h1 align="center">Projects</h1> -->
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
