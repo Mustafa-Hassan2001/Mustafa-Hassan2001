@@ -5,7 +5,7 @@
 
 ### About Me,
 
- I am <b>Syed Mustafa Hassan</b> pursuing my <b>Computer Science Degree</b> from Mohammad Ali Jinnah University, Currently in my final year of Bachelor's.
+<p> I am <b>Syed Mustafa Hassan</b> pursuing my <b>Computer Science Degree</b> from Mohammad Ali Jinnah University, Currently in my final year of Bachelor's.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
