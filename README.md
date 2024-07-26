@@ -42,6 +42,7 @@ With a passion for learning and exploring new technologies, I thrive in team env
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 <br><br>
 <!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
