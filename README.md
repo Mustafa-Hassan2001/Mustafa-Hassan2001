@@ -56,7 +56,10 @@ I believe in implementing the knowledge which you have. Projects play a major ro
         <p align="center">
           <br>
   <a href="https://github.com/Mustafa-Hassan2001/Footplot" target="_blank">
-    <img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://footplot-cfadbuaxbaghceds.eastus-01.azurewebsites.net/)"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+   <a href="https://footplot-cfadbuaxbaghceds.eastus-01.azurewebsites.net/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
   </a> 
       </p>
         <p><strong>MS Teams, AI & Javascript</strong> - ChatGPT MS Teams Bot : Bot serves as a versatile tool to assist users in various aspects, including chat interactions, meetings, and work-related tasks.</p>
