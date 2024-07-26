@@ -119,7 +119,7 @@ With a passion for learning and exploring new technologies, I thrive in team env
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Html, CSS & Javascript</strong> - TravelDream : A tourist guide to Pakistan.</p>
+        <p><strong>Html, CSS & Javascript</strong> - TravelDream : A tourist guide.</p>
     </td>
   </tr>
   
