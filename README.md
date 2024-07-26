@@ -7,7 +7,7 @@
 
 <p> I am <b>Syed Mustafa Hassan</b> pursuing my <b>Computer Science Degree</b> from Mohammad Ali Jinnah University, Currently in my final year of Bachelor's.</p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mustafahas20297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafahas20297" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafahassan2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafahassan2001/" height="30" width="40" /></a>
