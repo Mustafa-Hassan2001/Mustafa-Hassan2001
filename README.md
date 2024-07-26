@@ -62,7 +62,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
   </a> 
       </p>
-        <p><strong>MS Teams, AI & Javascript</strong> - ChatGPT MS Teams Bot : Bot serves as a versatile tool to assist users in various aspects, including chat interactions, meetings, and work-related tasks.</p>
+        <p><strong>FootPlot: Animated E-commerce Website in React</strong> - FootPlot is a visually captivating e-commerce platform built with React, offering smooth animations for an immersive shopping experience. It features detailed product listings, responsive design, secure checkout, real-time updates on stock. Discover the latest in footwear with FootPlot.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Fitphysique</h3>
@@ -80,7 +80,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>       
       </p>
-        <p><strong>Html, CSS, Flask & Azure Congnitive Service</strong> - AI Text Translator : Web application that can translate text in real-time and with high accuracy. The user can input text in one language, and the application will automatically detect the language and translate the text into the user's desired language.</p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - Fitphysique : This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.</p>
     </td>
   </tr>
   
@@ -101,7 +101,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Html, CSS, BootStrap & Javascript</strong> - Foodies :  A restaurant website. You can place orders and keep track of it.</p>
+        <p><strong>Html, CSS, BootStrap & Javascript</strong> - Bella Onojie :  A restaurant website. You can place orders and keep track of it.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">TravelDream</h3>
@@ -119,7 +119,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Html, CSS & Javascript</strong> - Mera Pakistan : A tourist guide to Pakistan.</p>
+        <p><strong>Html, CSS & Javascript</strong> - TravelDream : A tourist guide to Pakistan.</p>
     </td>
   </tr>
   
@@ -140,7 +140,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Candy Store : I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - JobHunt : I created a responsive website called “JobHunt” where users can browse job listings, view detailed job descriptions, and apply for positions.</p>
     </td>
 <td width="50%" valign="top">
       <h3 align="center">RentalX</h3>
@@ -158,7 +158,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3 & Javascript</strong> - Fitness Club : This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.</p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - RentalX : This is user-friendly website where you can browse various cars for rent. You can easily select and book a car for your rental needs.</p>
     </td>
   </tr>
 
@@ -179,7 +179,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - I created a responsive photography portfolio website called “Market” where you can showcase various photography projects. Visitors can explore the portfolio and contact the photographer.</p>
     </td>
    <td width="50%" valign="top">
       <h3 align="center">Classic Motorcycle</h3>
@@ -197,7 +197,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Classic Motorcycle is a responsive website  for showcasing various BMW bikes. Visitors can explore different models and features, and place an order.</p>
     </td>
   </tr>   
 </table>
