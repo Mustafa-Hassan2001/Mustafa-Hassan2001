@@ -38,19 +38,156 @@ With a passion for learning and exploring new technologies, I thrive in team env
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-hassan2001&" alt="mustafa-hassan2001" /></p>
 
+
 <h1>Projects 💻</h1>
 I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 <br><br>
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [RentalX](https://mustafa-hassan2001.github.io/RentalX/)   | Connecting people with reliable car rental services. Simplifying the rental process, offering a wide range of vehicles, and ensuring transparency and convenience for a seamless travel experience.
-| [Footplot](https://footplot-cfadbuaxbaghceds.eastus-01.azurewebsites.net/)     | A basic template for animated e-commerce website with ReactJS. It is an open-source website.
-| [TravelDream](https://mustafa-hassan2001.github.io/TravelDream/)     | A Responsive Tour & Travel Agency Website Design Using HTML CSS and JavaScript.
-| [Bella Onojie](https://mustafa-hassan2001.github.io/Bella-Onojie/)     | Our "Gourmet Eats" responsive food delivery website, crafted with HTML, CSS, and JavaScript, offers a sleek and user-friendly interface. Showcase your skills, attract more viewers, and help others learn by contributing.
-| [FitPhysique](https://mustafa-hassan2001.github.io/FitPhysique/)     | FitPhysique is a responsive gym website created using HTML, CSS, and JavaScript. 
-| [PandaMart](https://youtu.be/Q3wV9fn2LsQ)  | Creating a WinForms Inventory Management System with C# and Database SQL connectivity. |
+<tr>
+  <td width="50%" valign="top">
+      <h3 align="center">FootPlot</h3>
+        <br />
+        <a target="_blank" href="https://github.com/Mustafa-Hassan2001/FootPlot">
+            <img src="FootPlot.PNG" width="100%" alt="Bot"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/Mustafa-Hassan2001/Footplot" target="_blank">
+    <img src="[https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white](https://footplot-cfadbuaxbaghceds.eastus-01.azurewebsites.net/)"/>
+  </a> 
+      </p>
+        <p><strong>MS Teams, AI & Javascript</strong> - ChatGPT MS Teams Bot : Bot serves as a versatile tool to assist users in various aspects, including chat interactions, meetings, and work-related tasks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Online AI Text Translator</h3>
+        <br />
+      <a target="_blank" href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services">
+            <img src="Images/AITextTrans.png" width="100%"  alt="Translator"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://online-text-translator.azurewebsites.net/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
+  </a>       
+      </p>
+        <p><strong>Html, CSS, Flask & Azure Congnitive Service</strong> - AI Text Translator : Web application that can translate text in real-time and with high accuracy. The user can input text in one language, and the application will automatically detect the language and translate the text into the user's desired language.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Foodies</h3>
+        <br />
+        <a target="_blank" href="foodies.samimunir2002.repl.co/">
+            <img src="Images/Foodies.png" width="100%" alt="Foodies"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/Foodies-Restaurant" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="foodies.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Html, CSS, BootStrap & Javascript</strong> - Foodies :  A restaurant website. You can place orders and keep track of it.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Mera Pakistan</h3>
+        <br />
+      <a target="_blank" href="https://merapakistan.samimunir2002.repl.co/">
+            <img src="Images/Tourist.png" width="100%"  alt="Tourist"/>
+        </a>
+        <br />
+        <p align="center">
+   <br>
+  <a href="https://merapakistan.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Html, CSS & Javascript</strong> - Mera Pakistan : A tourist guide to Pakistan.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Candy Store</h3>
+      <br />
+        <a target="_blank" href="https://candystore.samimunir2002.repl.co/">
+          <img src="Images/Candy.png" width="100%" alt="Candy"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/CandyStore" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://candystore.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Candy Store : I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order.</p>
+    </td>
+<td width="50%" valign="top">
+      <h3 align="center">Fitness Club</h3>
+        <br />
+        <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
+          <img src="Images/Fitness.png" width="100%" alt="Fitness Club"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/samipak458/Gym-Website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://fitnessclub.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - Fitness Club : This is user-friendly website where you can see details about gym, trainers, facility, class schedule and monthly packages.</p>
+    </td>
+  </tr>
+
+   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br />
+        <a target="_blank" href="https://sami.samimunir2002.repl.co/">
+          <img src="https://user-images.githubusercontent.com/52650290/200867908-d001e295-b3ef-49cb-b535-d4a166f0a641.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://sami.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+   <td width="50%" valign="top">
+      <h3 align="center">Tic Tac Toe</h3>
+      <br />
+        <a target="_blank" href="https://tictactoe-game.samimunir2002.repl.co/">
+          <img src="Images/TicTacToeGame.png" width="100%" alt="Tic Tac Toe"/>
+        </a>
+      <br />
+        <p align="center">
+          <br>
+  <a href="https://tictactoe-game.samimunir2002.repl.co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Tic-tac-toe is a classic two-player game that, if both players play their best, will always finish in a tie. The game is also known as Xs and Os or noughts and crosses.</p>
+    </td>
+  </tr>   
+</table>
 
 
