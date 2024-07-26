@@ -65,19 +65,19 @@ I believe in implementing the knowledge which you have. Projects play a major ro
         <p><strong>MS Teams, AI & Javascript</strong> - ChatGPT MS Teams Bot : Bot serves as a versatile tool to assist users in various aspects, including chat interactions, meetings, and work-related tasks.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Online AI Text Translator</h3>
+      <h3 align="center">Fitphysique</h3>
         <br />
-      <a target="_blank" href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services">
-            <img src="Images/AITextTrans.png" width="100%"  alt="Translator"/>
+      <a target="_blank" href="https://mustafa-hassan2001.github.io/FitPhysique/">
+            <img src="Fitphysique.PNG" width="100%"  alt="Translator"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://github.com/samipak458/Online-Text-Translator-With-Azure-Services" target="_blank">
+  <a href="https://github.com/Mustafa-Hassan2001/FitPhysique" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://online-text-translator.azurewebsites.net/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=python&logo-color=white"/>
+  <a href="https://mustafa-hassan2001.github.io/FitPhysique/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>       
       </p>
         <p><strong>Html, CSS, Flask & Azure Congnitive Service</strong> - AI Text Translator : Web application that can translate text in real-time and with high accuracy. The user can input text in one language, and the application will automatically detect the language and translate the text into the user's desired language.</p>
@@ -86,33 +86,36 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Foodies</h3>
+      <h3 align="center">Bella Onojie</h3>
         <br />
-        <a target="_blank" href="foodies.samimunir2002.repl.co/">
-            <img src="Images/Foodies.png" width="100%" alt="Foodies"/>
+        <a target="_blank" href="https://mustafa-hassan2001.github.io/Bella-Onojie/">
+            <img src="bella.PNG" width="100%" alt="Foodies"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/samipak458/Foodies-Restaurant" target="_blank">
+  <a href="https://github.com/Mustafa-Hassan2001/Bella-Onojie" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="foodies.samimunir2002.repl.co/" target="_blank">
+  <a href="https://mustafa-hassan2001.github.io/Bella-Onojie/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
         <p><strong>Html, CSS, BootStrap & Javascript</strong> - Foodies :  A restaurant website. You can place orders and keep track of it.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Mera Pakistan</h3>
+      <h3 align="center">TravelDream</h3>
         <br />
-      <a target="_blank" href="https://merapakistan.samimunir2002.repl.co/">
-            <img src="Images/Tourist.png" width="100%"  alt="Tourist"/>
+      <a target="_blank" href="https://mustafa-hassan2001.github.io/TravelDream/">
+            <img src="travel.PNG" width="100%"  alt="Tourist"/>
         </a>
         <br />
         <p align="center">
    <br>
-  <a href="https://merapakistan.samimunir2002.repl.co/" target="_blank">
+  <a href="https://github.com/Mustafa-Hassan2001/TravelDream" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mustafa-hassan2001.github.io/TravelDream/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
@@ -122,36 +125,36 @@ I believe in implementing the knowledge which you have. Projects play a major ro
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Candy Store</h3>
+      <h3 align="center">JobHunt</h3>
       <br />
-        <a target="_blank" href="https://candystore.samimunir2002.repl.co/">
-          <img src="Images/Candy.png" width="100%" alt="Candy"/>
+        <a target="_blank" href="https://mustafa-hassan2001.github.io/JobHunt/">
+          <img src="jobhunt.PNG" width="100%" alt="Candy"/>
         </a>
       <br />
         <p align="center">
           <br>
-  <a href="https://github.com/samipak458/CandyStore" target="_blank">
+  <a href="https://github.com/Mustafa-Hassan2001/JobHunt" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://candystore.samimunir2002.repl.co/" target="_blank">
+  <a href="https://mustafa-hassan2001.github.io/JobHunt/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Candy Store : I created a responsive website called “Candy” where you can see various products (Chocolates and different types of candies). You can place an order.</p>
     </td>
 <td width="50%" valign="top">
-      <h3 align="center">Fitness Club</h3>
+      <h3 align="center">RentalX</h3>
         <br />
-        <a target="_blank" href="https://fitnessclub.samimunir2002.repl.co/">
-          <img src="Images/Fitness.png" width="100%" alt="Fitness Club"/>
+        <a target="_blank" href="https://mustafa-hassan2001.github.io/RentalX/">
+          <img src="rentalx.PNG" width="100%" alt="Fitness Club"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/samipak458/Gym-Website" target="_blank">
+  <a href="https://github.com/Mustafa-Hassan2001/RentalX" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://fitnessclub.samimunir2002.repl.co/" target="_blank">
+  <a href="https://mustafa-hassan2001.github.io/RentalX/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
@@ -161,30 +164,36 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">MarKet</h3>
       <br />
-        <a target="_blank" href="https://sami.samimunir2002.repl.co/">
-          <img src="https://user-images.githubusercontent.com/52650290/200867908-d001e295-b3ef-49cb-b535-d4a166f0a641.png" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://mustafa-hassan2001.github.io/Market/">
+          <img src="market.PNG" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
           <br>
-  <a href="https://sami.samimunir2002.repl.co/" target="_blank">
+  <a href="https://github.com/Mustafa-Hassan2001/Market" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mustafa-hassan2001.github.io/Market/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
    <td width="50%" valign="top">
-      <h3 align="center">Tic Tac Toe</h3>
+      <h3 align="center">Classic Motorcycle</h3>
       <br />
-        <a target="_blank" href="https://tictactoe-game.samimunir2002.repl.co/">
-          <img src="Images/TicTacToeGame.png" width="100%" alt="Tic Tac Toe"/>
+        <a target="_blank" href="https://mustafa-hassan2001.github.io/ClassicMotorcycle/">
+          <img src="moto.PNG" width="100%" alt="Tic Tac Toe"/>
         </a>
       <br />
         <p align="center">
           <br>
-  <a href="https://tictactoe-game.samimunir2002.repl.co/" target="_blank">
+  <a href="https://github.com/Mustafa-Hassan2001/ClassicMotorcycle" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mustafa-hassan2001.github.io/ClassicMotorcycle/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=javascript&logo-color=white"/>
   </a>
       </p>
