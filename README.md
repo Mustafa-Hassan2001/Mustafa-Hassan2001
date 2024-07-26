@@ -40,7 +40,7 @@ With a passion for learning and exploring new technologies, I thrive in team env
 
 
 <h1 align="center">Projects 💻</h1>
-I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+<p align="center">I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.</p>
 <br><br>
 <!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
