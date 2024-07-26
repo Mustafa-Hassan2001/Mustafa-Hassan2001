@@ -7,7 +7,7 @@
 
 <p> I am <b>Syed Mustafa Hassan</b> pursuing my <b>Computer Science Degree</b> from Mohammad Ali Jinnah University, Currently in my final year of Bachelor's.</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mustafahas20297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafahas20297" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafahassan2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafahassan2001/" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/fa21bscs0030/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fa21bscs0030/" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">🛠 About My Tech Stack</h1>
+<h1>🛠 About My Tech Stack</h1>
 
 As a **Mobile Application** and 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, I have demonstrated a consistent track record of innovation and collaboration. My contributions to **Social Winter of Code** (SWOC) and **GirlScript Summer of Code** (GSSOC) have positioned me among the *top 100 contributors*, showcasing my dedication to software development and community engagement. Currently, I am a **React Native** Track Mentor at **Bytewise Limited**, where I lead and mentor fellows in developing cutting-edge mobile applications. My role encompasses providing learning materials, addressing queries, conducting code reviews, and offering personal mentorship. Previously, as a **React Native Developer** Intern at **360XpertSolutions**, I developed a debugging tool that significantly enhanced team performance, integrated RESTful APIs, and resolved complex integration issues.
 
