@@ -185,7 +185,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
       <h3 align="center">Classic Motorcycle</h3>
       <br />
         <a target="_blank" href="https://mustafa-hassan2001.github.io/ClassicMotorcycle/">
-          <img src="moto.PNG" width="100%" alt="Tic Tac Toe"/>
+          <img src="moto.png" width="100%" alt="Tic Tac Toe"/>
         </a>
       <br />
         <p align="center">
