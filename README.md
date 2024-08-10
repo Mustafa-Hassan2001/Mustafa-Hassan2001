@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mustafa-Hassan2001/Mustafa-Hassan2001/blob/main/Follo.png)
 <h1 align="center">Hi 👋, I'm Mustafa Hassan</h1>
-<h3 align="center">Learn, Build & Repeat</h3>
+<h3 align="center">LEARN, BUILD & REPEAT</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <h1> About Me, </h1>
