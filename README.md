@@ -1,6 +1,6 @@
 ![logo](https://github.com/Mustafa-Hassan2001/Mustafa-Hassan2001/blob/main/Follo.png)
 <h1 align="center">Hi 👋, I'm Mustafa Hassan</h1>
-<h3 align="center">LEARN, BUILD & REPEAT</h3>
+<h3 align="center">An independent and self-motivated hardworking individual dedicated towards goals.</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <h1> About Me, </h1>
@@ -39,7 +39,7 @@ With a passion for learning and exploring new technologies, I thrive in team env
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-hassan2001&" alt="mustafa-hassan2001" /></p>
 
 
-<h1 align="center">Projects 💻</h1>
+<h1 align="center">Projects: "LEARN, BUILD & REPEAT" 💻</h1>
 <p align="center">I believe in implementing the knowledge which you have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.</p>
 <br><br>
 <!-- <h1 align="center">Projects</h1> -->
