@@ -202,4 +202,7 @@ With a passion for learning and exploring new technologies, I thrive in team env
   </tr>   
 </table>
 
-
+# 🏆 HacktoberFest 2024 Badges
+ 
+[![An image of @mustafahassan2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mustafahassan2001)](https://holopin.io/@mustafahassan2001)
+ 
